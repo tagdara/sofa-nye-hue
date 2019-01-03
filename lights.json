@@ -1,0 +1,33 @@
+{
+    "all": { 
+        "Office Right": { "address": 1, "room": "Office"}, 
+        "Living Room Left 1": { "address": 2, "room": "Living Room"},
+        "Living Room Right 1": { "address": 3, "room": "Living Room"},
+        "Office Left": { "address": 4, "room": "Office"}, 
+        "Living Room Cabinet": { "address": 5, "room": "Living Room"},
+        "TV Light": { "address": 8, "room": "Living Room"},
+        "Master Bedroom Floor": { "address": 9, "room": "Bedroom"},
+        "Dining Room 2": { "address": 12, "room": "Dining Room"},
+        "Dining Room 1": { "address": 14, "room": "Dining Room"},
+        "Living Room Right 2": { "address": 15, "room": "Living Room"},
+        "Living Room Left 2": { "address": 16, "room": "Living Room"},
+        "Dining Room 3": { "address": 22, "room": "Dining Room"},
+        "Dining Room 4": { "address": 23, "room": "Dining Room"}
+    },
+    "white": [ 
+        "Dining Room 2", "Dining Room 1", "Dining Room 3", "Dining Room 4"
+    ],
+    "rotating": [ 
+        "Office Right", "Living Room Left 1","Living Room Right 1","Office Left",
+        "Living Room Cabinet", "TV Light", "Living Room Right 2", "Living Room Left 2"
+    ],
+    "event": [ 
+        "Office Right", "Office Left", "Living Room Left 1","Living Room Right 1",
+        "Living Room Cabinet", "Living Room Right 2", "Living Room Left 2",
+        "Dining Room 2", "Dining Room 1", "Dining Room 3", "Dining Room 4"
+    ],
+    "beacon": [
+        "TV Light"
+    ],
+    "basecolor": [0.4404,0.3773]
+}

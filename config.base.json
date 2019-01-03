@@ -1,0 +1,13 @@
+{
+    "dir": "/opt/nye",
+    "address": "hue.bridge.address",
+    "account": "hue automation user id",
+    "start": "normal",
+    "log_directory": "/var/log",
+    "basecolor": [0.4404, 0.3773],
+    "eventloops": 10,
+    "rotate_interval": 20,
+    "start_time": "Jan 2 2019, 12:44:02PM",
+    "event_time": "Jan 2 2019, 12:50:02PM",
+    "prep_time": "Jan 2 2019, 12:49:02PM"
+}
